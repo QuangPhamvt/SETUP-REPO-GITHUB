@@ -1,0 +1,23 @@
+changelog:
+  categories:
+    - title: Breaking Changes 🛠
+      labels:
+        - 'type: breaking'
+    - title: New Features 🎉
+      labels:
+        - 'type: enhancement'
+    - title: Bug Fixes 🐞
+      labels:
+        - 'type: bug'
+    - title: Improvements ⭐
+      labels:
+        - 'type: improvement'
+    - title: Docs 📖
+      labels:
+        - 'type: docs'
+    - title: Refactor Source
+      labels:
+        - 'type: refactor'
+    - title: Other Changes 💡
+      labels:
+        - "*"
